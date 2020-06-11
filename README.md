@@ -1,2 +1,2 @@
 # Webpage-builder.github.io
-Web-Page designs
+Web-Page Designs as a Practice
